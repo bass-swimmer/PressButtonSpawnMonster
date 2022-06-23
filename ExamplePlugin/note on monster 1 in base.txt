@@ -1,0 +1,5 @@
+a note on Monster 1's code in Base
+
+for some reason it's not updating on Github, but the actual code gives monster 1 the same number of items as the
+rest of the monsters.  I can't get it to update rn, so if it looks different please be aware that it's not, it's
+just a thing with github atm.
